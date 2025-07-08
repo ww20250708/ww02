@@ -10,4 +10,4 @@
 
 本站汇集了各类精选影视资源，提供最新、最热的影视内容，支持多终端观看。每天更新，内容丰富，满足各类观影需求。无需注册，即点即播，致力于提供简洁、流畅的观影体验，为影视爱好者带来优质享受。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ww20250708/ww02 ）</span>
